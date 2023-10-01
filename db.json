@@ -1,0 +1,129 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "project1",
+      "type": "Разработка ПО"
+    },
+    {
+      "id": "2",
+      "name": "project2",
+      "type": "Бизнес, управление командой"
+    },
+    {
+      "name": "test 3",
+      "type": "test 3",
+      "id": "tCkqYh3"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "projectId": "1",
+      "number": "1",
+      "title": "task 1",
+      "description": "test",
+      "dateCreated": "01.01.2015",
+      "timeInWork": 100,
+      "dateCompleted": "03.01.2015",
+      "priority": "HIGH",
+      "status": "Development"
+    },
+    {
+      "id": "2",
+      "projectId": "1",
+      "number": "1",
+      "title": "task2",
+      "description": "Даже если все подзадачи выполнены, это не значит, что и основная становится выполненной",
+      "dateCreated": "02.01.2015",
+      "timeInWork": 100,
+      "dateCompleted": "08.01.2015",
+      "priority": "HIGH",
+      "status": "Done"
+    },
+    {
+      "id": "3",
+      "projectId": "1",
+      "number": "1",
+      "title": "task 3",
+      "description": "Адаптация под мобильные устройства",
+      "dateCreated": "10.01.2015",
+      "timeInWork": 100,
+      "dateCompleted": "12.01.2015",
+      "priority": "HIGH",
+      "status": "Development"
+    },
+    {
+      "id": "4",
+      "projectId": "1",
+      "number": "1",
+      "title": "task 4",
+      "description": "TEST TASK 4",
+      "dateCreated": "10.01.2015",
+      "timeInWork": 100,
+      "dateCompleted": "12.01.2015",
+      "priority": "HIGH",
+      "status": "Done"
+    },
+    {
+      "id": "5",
+      "projectId": "2",
+      "number": "2",
+      "title": "task1",
+      "description": "TEST TASK 4",
+      "dateCreated": "10.01.2015",
+      "timeInWork": 100,
+      "dateCompleted": "12.01.2015",
+      "priority": "HIGH",
+      "status": "Development"
+    },
+    {
+      "title": "Таск",
+      "description": "",
+      "status": "Queue",
+      "dateCreated": "2002-02-07",
+      "dateCompleted": "2002-02-07",
+      "priority": "",
+      "projectId": "2",
+      "timeInWork": 123,
+      "number": "0.33687295360036607",
+      "id": "7C1NgXk"
+    },
+    {
+      "title": "таск 2222",
+      "description": "",
+      "status": "Done",
+      "dateCreated": "2002-02-07",
+      "dateCompleted": "2002-02-07",
+      "priority": "",
+      "projectId": "2",
+      "timeInWork": 123,
+      "number": "2-213",
+      "id": "n4KJmuq"
+    },
+    {
+      "title": "task 3",
+      "description": "",
+      "status": "Development",
+      "dateCreated": "2002-02-07",
+      "dateCompleted": "2002-02-07",
+      "priority": "",
+      "projectId": "2",
+      "timeInWork": 123,
+      "number": "2-9ZUD77g",
+      "id": "9ZUD77g"
+    },
+    {
+      "title": "test",
+      "description": "",
+      "status": "Development",
+      "dateCreated": "2002-02-07",
+      "dateCompleted": "2002-02-07",
+      "priority": "",
+      "projectId": "tCkqYh3",
+      "timeInWork": 123,
+      "number": "",
+      "id": "WCXetcD"
+    }
+  ]
+}
